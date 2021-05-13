@@ -3,3 +3,4 @@ y=int(input("Enter y "))
 print("hello")
 z=x+y
 print("sum is ",z)
+print("hi")
